@@ -36,3 +36,10 @@ class MyThread2 extends Thread{
 //compiler is giving time to both of the threads concurrently.
 
 // This is the process of extending thread class.
+
+
+//lifecycle of threads
+//how to join two threads
+//how sleep in thread
+//creating a thread and it should be stopped in 2 sec and again it should get started.
+//why we use compiler in java.
